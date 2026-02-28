@@ -21,3 +21,7 @@
 ## 💻 На чем написано:
 
 Python и Gemini API. Для работы с данными использовала JSON и Requests.
+
+
+
+Настроена логика на Python и подключено API OpenRouter.
